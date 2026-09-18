@@ -1,0 +1,2 @@
+# Smart_Helmet_Project
+这是一个矿用智能安全帽系统的代码仓库
